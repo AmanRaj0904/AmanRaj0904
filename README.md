@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanRaj0904
 - 👀 I’m interested in ...Web_devlopment(Front-end)
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...Nothing
+- 🌱 I’m currently learning ...JavaScript,Python
+- 💞️ I’m looking to collaborate
 -
 
 <!---
