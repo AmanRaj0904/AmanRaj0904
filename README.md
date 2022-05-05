@@ -1,5 +1,4 @@
 
-[![MasterHead](https://www.google.com/search?q=front+end+web+development+banner&newwindow=1&rlz=1C1CHBF_en-GBIN979IN979&sxsrf=ALiCzsZoKJov0XkbMsoX5cpawGkh9RNYvA:1651749768281&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjM0Mixn8j3AhW4TmwGHfc8Ce0Q_AUoAXoECAEQAw&biw=1229&bih=608&dpr=1.56#imgrc=UjfzHTlVXQnEdM&imgdii=uapkWvlJOaocEM.)]
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
 <h3 align="center">`I'm a Passionate Learner, Learning Full-stack Web Development and a Frontend Web Development Enthusiast</h3>
 <p align="center"> <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="amanraj0904" width="300" /> </p>
