@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
 <h3 align="center">`I'm a Passionate Learner, Learning Full-stack Web Development and a Frontend Web Development Enthusiast</h3>
-<p align="center"> <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="amanraj0904" width="300" /> </p>
+<p align="left"> <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="amanraj0904" width="100%" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj0904&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj0904" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanraj0904" alt="amanraj0904" /></a> </p>
